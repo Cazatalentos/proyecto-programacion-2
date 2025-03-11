@@ -1,7 +1,7 @@
 # proyecto-programacion-2
 # Reporteria de datos
 integrantes: Juan Sebastian Morales Bayron Nidkolay Gonzales
-Enlaces perfiles Github: https://github.com/Cazatalentos?tab=overview&from=2025-03-01&to=2025-03-05 (Sebastian morales)  /  https://github.com/bngonzalez (Bayron Nidkolay Gonzales)
+Enlaces perfiles Github: https://github.com/Cazatalentos (Sebastian morales)  /  https://github.com/bngonzalez (Bayron Nidkolay Gonzales)
 
 
 introduccion:
