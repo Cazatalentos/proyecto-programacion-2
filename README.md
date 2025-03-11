@@ -6,7 +6,7 @@ Enlaces perfiles Github: https://github.com/Cazatalentos (Sebastian morales)  / 
 
 introduccion:
 El planteamiento de este proyecto se centra en crear el desarrollo de un sistema de reportería en JavaScript que permita la generación y exportación de datos en Excel y PDF. La aplicación estará diseñada para procesar información de manera dinámica y presentar reportes personalizables, garantizando flexibilidad y facilidad de uso para los usuarios.
-# Librerias planteadas
+Librerias planteadas
 Para Excel:
 xlsx (SheetJS) = Permite crear, leer y exportar archivos Excel.
  Para PDF:
