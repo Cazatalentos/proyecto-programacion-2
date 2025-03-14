@@ -51,8 +51,8 @@ Inclusión de gráficos o logotipos en los reportes, Se usará jsPDF + AutoTable
  
 4. ***Módulo de Visualización***
  <p>
-Permite previsualizar el reporte antes de la descarga.
+Permite previsualizar el reporte antes de la descarga, uso de iframe para visualizar el PDF sin necesidad de descargarlo.
  
 5. ***Módulo de Descarga y Exportación***
  <p>
-Opción para exportar los reportes en Excel y PDF.
+Opción para exportar los reportes en Excel y PDF, envío de reportes por correo electrónico con Nodemailer.
