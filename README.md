@@ -1,5 +1,6 @@
 # proyecto-programacion-2
 #  generación de reportes en Excel y PDF a partir de datos estructurados
+## "ExcelPDF Maker"
 integrantes: Juan Sebastian Morales Bayron Nidkolay Gonzales
 Enlaces perfiles Github: https://github.com/Cazatalentos (Sebastian morales)  /  https://github.com/bngonzalez (Bayron Nidkolay Gonzales)
 
