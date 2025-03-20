@@ -19,6 +19,10 @@ El planteamiento de este proyecto se centra en crear el desarrollo de un sistema
 -Para PDF:
          <p>
 -jsPDF = Genera archivos PDF con texto, imágenes y tablas.
+<p>
+ -Mongoose = librería de Node.js que facilita la conexión y manipulación de MongoDB.
+ <p>
+ -Nodemailer = una librería de Node.js que permite enviar correos electrónicos.
            
 ## Tecnologia:
  <p>
