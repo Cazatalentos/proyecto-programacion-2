@@ -22,6 +22,12 @@ El planteamiento de este proyecto se centra en crear el desarrollo de un sistema
 ## Tecnologia:
  <p>
  Dado que el objetivo principal es generar reportes en Excel y PDF se utilizara API en Node.js, Recibe datos en JSON o CSV y Genera y devuelve archivos Excel/PDF.
+  <p>
+  Se quiere que la API sea creada desde cero ya que tiene algunas ventajas:  control total sobre las funcionalidades, Personalizas el formato de los reportes al gusto, se es consiente que
+  requiere mas tiempo de desarrollo, pero tiene mas ventajas que usar un API ya existente ya que estos presentan menos personalización en el formato de reportes, pueden tener 
+ limitaciones o costos según la API usada. 
+  <p>
+  En cuanto a interfaz grafica no se tiene contemplado aplicar una se tiene pensado que los usuarios envíen datos en JSON o CSV  y que la API procese los datos y devuelve un archivo Excel o PDF listo para descargar.
 
 ## Modulos que se pueden evidenciar:
  
